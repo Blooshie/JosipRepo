@@ -6,5 +6,11 @@ namespace ConsoleApp1
 {
     class HELLOWORLD
     {
+        private void Primjer()
+        {
+            Console.WriteLine("A");
+        }
     }
+
+    
 }
