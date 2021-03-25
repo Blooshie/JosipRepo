@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class HELLOWORLD
     {
-        System.Write("PRIMJER ");
+        //RJESEN BUG
     }
     
 }
